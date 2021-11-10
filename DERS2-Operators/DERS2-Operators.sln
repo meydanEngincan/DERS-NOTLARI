@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DERS2-Operators", "DERS2-Operators\DERS2-Operators.csproj", "{43AEE7A2-772C-4B4F-80A5-674F72A29D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DERS2-TypeConverts(TipDonusumleri)", "DERS2-TypeConverts(TipDonusumleri)\DERS2-TypeConverts(TipDonusumleri).csproj", "{F992738A-99DC-44C8-923D-C134D0C73205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AEE7A2-772C-4B4F-80A5-674F72A29D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AEE7A2-772C-4B4F-80A5-674F72A29D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AEE7A2-772C-4B4F-80A5-674F72A29D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AEE7A2-772C-4B4F-80A5-674F72A29D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F992738A-99DC-44C8-923D-C134D0C73205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F992738A-99DC-44C8-923D-C134D0C73205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F992738A-99DC-44C8-923D-C134D0C73205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F992738A-99DC-44C8-923D-C134D0C73205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13C07D0A-E94B-4E45-BCC5-871F3D20D6F1}
+	EndGlobalSection
+EndGlobal

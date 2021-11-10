@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-TypeConverts(TipDonusumleri)\bin\Debug\DERS2-TypeConverts(TipDonusumleri).exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-TypeConverts(TipDonusumleri)\bin\Debug\DERS2-TypeConverts(TipDonusumleri).exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-TypeConverts(TipDonusumleri)\bin\Debug\DERS2-TypeConverts(TipDonusumleri).pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-TypeConverts(TipDonusumleri)\obj\Debug\DERS2-TypeConverts(TipDonusumleri).csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-TypeConverts(TipDonusumleri)\obj\Debug\DERS2-TypeConverts(TipDonusumleri).csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-TypeConverts(TipDonusumleri)\obj\Debug\DERS2-TypeConverts(TipDonusumleri).exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-TypeConverts(TipDonusumleri)\obj\Debug\DERS2-TypeConverts(TipDonusumleri).pdb

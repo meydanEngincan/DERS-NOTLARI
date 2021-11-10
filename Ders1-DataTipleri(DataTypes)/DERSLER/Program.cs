@@ -10,6 +10,7 @@ namespace Ders1_DataTipleri_DataTypes_
     {
         static void Main(string[] args)
         {
+            ///////////////////// DEĞER TİPLERİ RAMLERDE YER TUTAR//////////////
             //sbyte sayi = 45; //bytenin başında S olduğu için - li değer alabilir.
             //sayi = 45;
 
@@ -33,7 +34,30 @@ namespace Ders1_DataTipleri_DataTypes_
             string sifre = Console.ReadLine();
 
            //Console.WriteLine("Ad Soyad :" + adSoyad + "\n" + "Mail " + mail + "\n" + "Şifre " + sifre);
-            Console.WriteLine($"Ad Soyad : {adSoyad} \nMail : {mail} \nŞifre : {sifre}");
+            Console.WriteLine($"Ad Soyad : {adSoyad} \nMail : {mail} \nŞifre : {sifre}"); // üstte ki gösterimle aynı $ string interpolasyon yaptık \n alt satıra geçer {} değişkeni yazdırır diğer bilgileri normal metin olarak yazdırıyoruz.
+
+
+
+
+            //////////////REFERANS TİPİ VERİLERR//////////////
+            //Ramda ki adres bilgsini tutar.
+            //Tüm tiplerde ki veriyi saklayabilir.
+            object genelDegisken = 999;
+            Console.WriteLine(genelDegisken);
+            genelDegisken = 31.24F;
+            Console.WriteLine(genelDegisken);
+            genelDegisken = 3.14D;
+            Console.WriteLine(genelDegisken);
+            genelDegisken = "Merhaba DÜnya";
+            Console.WriteLine(genelDegisken);
+            var adress = "Kadıköy";
+           // var adress = 73; //hatalı olur kullanılamaz.
+
+            //Var ile object arasında ki fark= Var ilk atanan veri tipini alır başka değer alamaz,oject birden fazla veri tipi değer alır.
+
+
+            String referansTipli = "Bu değişken doğrudan string sınıfından üretilmiştir.";//Nesne oldu ilk harf büyük küçük fark eder.
+            string degerTipli = "Bu değişken String sınıfından türetilmiş string değer veri tipindedir";
         }
     }
 }
