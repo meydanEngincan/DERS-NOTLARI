@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\Ders1-DataTipleri(DataTypes)\Ders1-DataTipleri(DataTypes)\bin\Debug\Ders1-DataTipleri(DataTypes).exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\Ders1-DataTipleri(DataTypes)\Ders1-DataTipleri(DataTypes)\bin\Debug\Ders1-DataTipleri(DataTypes).exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\Ders1-DataTipleri(DataTypes)\Ders1-DataTipleri(DataTypes)\bin\Debug\Ders1-DataTipleri(DataTypes).pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\Ders1-DataTipleri(DataTypes)\Ders1-DataTipleri(DataTypes)\obj\Debug\Ders1-DataTipleri(DataTypes).csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\Ders1-DataTipleri(DataTypes)\Ders1-DataTipleri(DataTypes)\obj\Debug\Ders1-DataTipleri(DataTypes).csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\Ders1-DataTipleri(DataTypes)\Ders1-DataTipleri(DataTypes)\obj\Debug\Ders1-DataTipleri(DataTypes).exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\Ders1-DataTipleri(DataTypes)\Ders1-DataTipleri(DataTypes)\obj\Debug\Ders1-DataTipleri(DataTypes).pdb
