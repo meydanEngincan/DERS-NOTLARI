@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3-If-Else-SwitchCase", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders4-WhileLoop", "Ders4-WhileLoop\Ders4-WhileLoop.csproj", "{8583AC89-60EA-4C0A-897B-6AF31D50B88B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders4-DoWhile-Loop", "Ders4-DoWhile-Loop\Ders4-DoWhile-Loop.csproj", "{D0D22C38-146D-4500-9779-66C6780B7134}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8583AC89-60EA-4C0A-897B-6AF31D50B88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8583AC89-60EA-4C0A-897B-6AF31D50B88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8583AC89-60EA-4C0A-897B-6AF31D50B88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D22C38-146D-4500-9779-66C6780B7134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D22C38-146D-4500-9779-66C6780B7134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D22C38-146D-4500-9779-66C6780B7134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D22C38-146D-4500-9779-66C6780B7134}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

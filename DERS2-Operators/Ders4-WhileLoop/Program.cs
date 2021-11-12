@@ -152,19 +152,21 @@ namespace Ders4_WhileLoop
 
             //Break ve Continue kavramı, Soru= 1-10 arasındaki sayıları ekrana yazdıran prog. yaz. 7 ye geldiğinde birşey yazdırmasın,9a geldiğinde programdan çıksın
 
-            int i = 1;
-            while (i <= 10)
-            {
-                if (i == 7)
-                {
-                   i++;
-                    continue; // bu aşamada döngü başına atlar.
-                }
-                else if (i == 9)
-                    break; // döngüyü sonlandırır.
-                Console.WriteLine(i);
-                i++;
-            }
+            //int i = 1;
+            //while (i <= 10)
+            //{
+            //    if (i == 7)
+            //    {
+            //       i++;
+            //        continue; // bu aşamada döngü başına atlar.
+            //    }
+            //    else if (i == 9)
+            //        break; // döngüyü sonlandırır.
+            //    Console.WriteLine(i);
+            //    i++;
+            //}
+
+            
 
 
 
