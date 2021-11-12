@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DERS2-Operators", "DERS2-Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DERS2-TypeConverts(TipDonusumleri)", "DERS2-TypeConverts(TipDonusumleri)\DERS2-TypeConverts(TipDonusumleri).csproj", "{F992738A-99DC-44C8-923D-C134D0C73205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3-If-Else-SwitchCase", "Ders3-If-Else-SwitchCase\Ders3-If-Else-SwitchCase.csproj", "{90D5E541-8188-4F80-BD98-929657D34FBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F992738A-99DC-44C8-923D-C134D0C73205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F992738A-99DC-44C8-923D-C134D0C73205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F992738A-99DC-44C8-923D-C134D0C73205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D5E541-8188-4F80-BD98-929657D34FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D5E541-8188-4F80-BD98-929657D34FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D5E541-8188-4F80-BD98-929657D34FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D5E541-8188-4F80-BD98-929657D34FBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
