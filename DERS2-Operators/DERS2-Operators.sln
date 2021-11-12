@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders4-WhileLoop", "Ders4-Wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders4-DoWhile-Loop", "Ders4-DoWhile-Loop\Ders4-DoWhile-Loop.csproj", "{D0D22C38-146D-4500-9779-66C6780B7134}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders4-ForLoop", "Ders4-ForLoop\Ders4-ForLoop.csproj", "{5A8DA94B-B9E3-4D75-9E67-866ADFCD03C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D0D22C38-146D-4500-9779-66C6780B7134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0D22C38-146D-4500-9779-66C6780B7134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0D22C38-146D-4500-9779-66C6780B7134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8DA94B-B9E3-4D75-9E67-866ADFCD03C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8DA94B-B9E3-4D75-9E67-866ADFCD03C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8DA94B-B9E3-4D75-9E67-866ADFCD03C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8DA94B-B9E3-4D75-9E67-866ADFCD03C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
