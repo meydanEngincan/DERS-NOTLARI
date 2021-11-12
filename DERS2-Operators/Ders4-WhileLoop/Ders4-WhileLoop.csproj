@@ -7,7 +7,7 @@
     <ProjectGuid>{8583AC89-60EA-4C0A-897B-6AF31D50B88B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ders4_WhileLoop</RootNamespace>
-    <AssemblyName>Ders4_WhileLoop</AssemblyName>
+    <AssemblyName>Ders4-WhileLoop</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
