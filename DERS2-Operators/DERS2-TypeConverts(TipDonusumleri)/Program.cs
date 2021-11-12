@@ -60,11 +60,6 @@ namespace DERS2_TypeConverts_TipDonusumleri_
             double santigrad = (fahrenayt - 32) / 1.8;
             santigrad = Math.Round(santigrad, 2);
             Console.WriteLine(fahrenayt + " Fahrenayt => " + santigrad + " Derecedir");
-
-
-
-
-
         }
     }
 }
