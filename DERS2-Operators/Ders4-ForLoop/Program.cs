@@ -35,60 +35,40 @@ namespace Ders4_ForLoop
 
             // klavyeden girilen 2 sayı arasında ki sayıları azalan şekilde yazınız
 
-            //Console.Write("Bir Sayı giriniz: ");
-            //int s1 = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Bir Sayı daha giriniz: ");
-            //int s2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Bir Sayı giriniz: ");
+            int s1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Bir Sayı daha giriniz: ");
+            int s2 = Convert.ToInt32(Console.ReadLine());
 
-            //if (s1 > s2)
-            //{
-            //    for (int i = s1; i == s2; i--)
-            //    {
-            //        Console.WriteLine(i);
-            //    }
-            //}
-            //else
-            //{
-            //    for (int i = s2; i == s1; i++)
-            //    {
-            //        Console.WriteLine(i);
-            //    }
-            //}
+            if (s1 > s2)
+            {
+                for (int i = s1; i > s2; i--)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+            else
+            {
+                for (int i = s2; i > s1; i--)
+                {
+                    Console.WriteLine(i);
+                }
+            }
 
-            //int kucuk;
-            //int buyuk;
-            //Console.Write("Sayı 1= ");
-            //int kgs1 = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Sayı 2= ");
-            //int kgs2 = Convert.ToInt32(Console.ReadLine());
-
-            //if (kgs1 > kgs2)
-            //{
-            //    buyuk = kgs1;
-            //    kucuk = kgs2;
-            //}
-            //else
-            //{
-            //    buyuk = kgs2;
-            //    kucuk = kgs1;
-            //}
-            //for (int i = buyuk; i > kucuk; i--)
-            //{
-
-            //}
+            
 
             //Soru Marketteki her ürünün fiyatının tek tek girilip her biri için %18 kdv li fiyatını ekrana yazdıran program
             //tüm ürünlerin toplan fiyatını kdv dahil olarak ekrana yazdıran program.5 ürün
 
-            for (int i = 0; i < 5; i++)
+            //for (int i = 0; i < 5; i++)
 
-            {
-                Console.Write("Ürün İsmi Girin: ");
-                string ü1 = Console.ReadLine();
-                Console.Write("Ürün Fiyat Girini: ");
-                int ü1f = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine($"Ürün : {ü1} Kdvli Fiyat {ü1f + (ü1f * (0.18))}");
-            }
+            //{
+            //    Console.Write("Ürün İsmi Girin: ");
+            //    string ü1 = Console.ReadLine();
+            //    Console.Write("Ürün Fiyat Girini: ");
+            //    int ü1f = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine($"Ürün : {ü1} Kdvli Fiyat {ü1f + (ü1f * (0.18))}");
+            //}
 
 
         }
