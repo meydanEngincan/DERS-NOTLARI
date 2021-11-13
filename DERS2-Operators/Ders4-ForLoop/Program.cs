@@ -35,25 +35,26 @@ namespace Ders4_ForLoop
 
             // klavyeden girilen 2 sayı arasında ki sayıları azalan şekilde yazınız
 
-            Console.Write("Bir Sayı giriniz: ");
-            int s1 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Bir Sayı daha giriniz: ");
-            int s2 = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Bir Sayı giriniz: ");
+            //int s1 = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Bir Sayı daha giriniz: ");
+            //int s2 = Convert.ToInt32(Console.ReadLine());
 
-            if (s1 > s2)
-            {
-                for (int i = s1; i > s2; i--)
-                {
-                    Console.WriteLine(i);
-                }
-            }
-            else
-            {
-                for (int i = s2; i > s1; i--)
-                {
-                    Console.WriteLine(i);
-                }
-            }
+            //if (s1 > s2)
+            //{
+
+            //    for (int i = s1; i > s2; i--)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //}
+            //else
+            //{
+            //    for (int i = s2; i > s1; i--)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //}
 
             
 
