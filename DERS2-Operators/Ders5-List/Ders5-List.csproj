@@ -7,7 +7,7 @@
     <ProjectGuid>{E3FF30F6-A262-480F-BED0-E56CAA05C9F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ders5_List</RootNamespace>
-    <AssemblyName>Ders5_List</AssemblyName>
+    <AssemblyName>Ders5-List</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
