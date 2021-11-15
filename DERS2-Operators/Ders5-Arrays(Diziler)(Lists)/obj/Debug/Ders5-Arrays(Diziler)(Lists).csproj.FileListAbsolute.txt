@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\bin\Debug\Ders5-Arrays(Diziler)(Lists).exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\bin\Debug\Ders5-Arrays(Diziler)(Lists).exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\bin\Debug\Ders5-Arrays(Diziler)(Lists).pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\obj\Debug\Ders5-Arrays(Diziler)(Lists).csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\obj\Debug\Ders5-Arrays(Diziler)(Lists).csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\obj\Debug\Ders5-Arrays(Diziler)(Lists).exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\obj\Debug\Ders5-Arrays(Diziler)(Lists).pdb
