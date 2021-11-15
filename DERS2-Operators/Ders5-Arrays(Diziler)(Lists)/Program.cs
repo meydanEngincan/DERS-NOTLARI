@@ -136,41 +136,36 @@ namespace Ders5_Arrays_Diziler__Lists_
 
             //Analiz= satır indexi tek ise 0. ve 4. kolonlar 1 olur
             // Analiz 2 = satır indexti çift ise 0. ve 4. kolonlar 2 olur
-
             //int[,] matris = new int[5, 5];
+
             //for (int satir = 0; satir < 5; satir++)
             //{
             //    for (int stün = 0; stün < 5; stün++)
             //    {
-            //        Console.Write(matris[satir, stün]+" ");
-            //    }
-            //    Console.WriteLine(); // iöteki döngü tamamlandığında satır sonu olur. alt satıra geçer
-            //}
-
-
-
-            //int[,] matris = new int[5, 5];
-
-            //for (int i = 0; i < 5; i++)
-            //{
-            //    if (i % 2 == 0)
-            //    {
-            //        Console.Write(2);
-            //    }
-            //    else if (i % 2 == 1)
-            //    {
-            //        Console.Write(1);
-            //    }
-            //    for (int j = 0; j < 5; j++)
-            //    {
-            //        if (j != 0 || j != 5)
+            //        if (satir % 2 == 0 &&(stün==0||stün==4 ))
             //        {
-            //            Console.Write(matris[i, j]+" ");
+            //            matris[satir, stün] = 2;
+            //        }
+            //        else if (satir %2==1 && (stün==0 || stün == 4))
+            //        {
+            //            matris[satir, stün] = 1;
             //        }
             //    }
-            //    Console.Write(matris);
             //}
 
+
+            //for (int satır = 0; satır < 5; satır++)
+            //{
+            //    for (int stün = 0; stün < 5; stün++)
+            //    {
+            //        Console.Write(matris[satır, stün]+" ");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
+
+            // !!!!!!!!!!!!!!!!!!!! EVDE YAP!!!!!!!!!!!!!!!!
 
             // örn=// Soru   1 0 0 0 1
             //               0 1 0 1 0
@@ -182,32 +177,122 @@ namespace Ders5_Arrays_Diziler__Lists_
             //analiz satır ve stün sayıları eşit olan yere 1 koy
             //satir ve stün index toplamı 4 ise 1 koy
 
-            int[,] matris = new int[5, 5];
-            for (int i = 0; i < 5; i++)
+
+            //örn= 2x4'luk bir dizi tanımlayın, bu dizinin her bir elemanı için klavyeden sayı alıp atayın
+
+            //int[,] dizi = new int[2, 4];
+            //// değer atadık.
+
+            //for (int satir = 0; satir < 2; satir++)
+            //{
+
+            //    for (int stün = 0; stün < 4; stün++)
+            //    {
+
+            //        dizi[satir, stün] = Convert.ToInt32(Console.ReadLine());
+            //    }
+            //}
+            //// yazdırdık.
+            //for (int satir = 0; satir < 2; satir++)
+            //{
+            //    for (int stün = 0; stün < 4; stün++)
+            //    {
+            //        Console.Write(dizi[satir, stün] + " ");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
+            // ********** Bu soruya Bak !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+            //örn= 2x4'luk bir dizi tanımlayın, her satırın son değeri hariç klavyeden al son değer öncekilerin toplamı olsun
+
+            //int[,] dizi = new int[2, 4];
+
+            //int sonKolon = 0;
+            //for (int satir = 0; satir < 2; satir++)
+            //{
+
+            //    for (int stün = 0; stün < 3; stün++)
+            //    {
+            //        if (stün != 4)
+            //        {
+            //            int sayi = Convert.ToInt32(Console.ReadLine());
+            //            dizi[satir, stün] = sayi;
+            //            sonKolon += sayi;
+            //        }
+            //    }
+            //}
+            //for (int i = 0; i < 2; i++)
+            //{
+            //    for (int j = 0; j < 3; j++)
+            //    {
+            //        sonKolon += dizi[i, j];
+            //    }
+            //    dizi[i, 3] = sonKolon;
+            //    sonKolon = 0;
+            //}
+            //for (int satir = 0; satir < 2; satir++)
+            //{
+            //    for (int stün = 0; stün < 4; stün++)
+            //    {
+            //        Console.Write(dizi[satir, stün] + " ");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
+
+            //int[,] matris = new int[5, 5];
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    for (int j = 0; j < 5; j++)
+            //    {
+            //        if ((i == j || i + j == 4))
+            //        {
+            //            matris[i, j] = 1;
+            //        }
+            //    }
+            //}
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    for (int j = 0; j < 5; j++)
+            //    {
+            //        Console.Write(matris[i, j]+" ");                       
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
+            // 3 BOYUTLU DİZİ
+
+            Random rnd = new Random();
+            int[,,] dizi3B = new int[2, 3, 3];
+
+            for (int z = 0; z < 2; z++) // 3x3lük diziler
             {
-                for (int j = 0; j < 5; j++)
+                for (int i = 0; i < 3; i++) // satırlar 
                 {
-                    if ((i == j || i + j == 4))
+                    for (int j = 0; j < 3; j++) // Stünlar
                     {
-                        matris[i, j] = 1;
+                        dizi3B[z, i, j] = rnd.Next(1000);
                     }
                 }
             }
-            for (int i = 0; i < 5; i++)
+
+            for (int z = 0; z < 2; z++) // 3x3lük diziler
             {
-                for (int j = 0; j < 5; j++)
+                for (int i = 0; i < 3; i++) // satırlar 
                 {
-
-                    Console.Write(matris[i, j]+" ");                       
-                    
+                    for (int j = 0; j < 3; j++) // Stünlar
+                    {
+                        Console.Write(dizi3B[z, i, j] + " ");
+                    }
+                    Console.WriteLine();
                 }
-                Console.WriteLine();
+                Console.WriteLine("****************");
+                Console.WriteLine("****************");
             }
-
-
-
-
-
         }
     }
 }
