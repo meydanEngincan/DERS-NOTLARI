@@ -180,10 +180,29 @@ namespace Ders6_Metotlar_1
 
             //int boyut = sayilarım.Count();
 
-            foreach (var item in KullaniciSayi())
+            //foreach (var item in KullaniciSayi())
+            //{
+            //    Console.Write(item+ " ");
+            //}
+
+            // (enküçük,enbüyük,sayıadedi)=> en küçük ile en büyük sayı arasında ki fark adedince rastgele sayı üretsin bir listeye atıp döndürsün
+
+            //List<int> sayiListesi= tahminOyunu(5, 25, 7); // 5 ile 25 arasında 7 sayı üretir.
+            //foreach (var item in sayiListesi)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            List<string> kelimelerim = new List<string>() { "araba", "hızla", "yanımdan", "geçti" };
+            Kelimeler(kelimelerim);
+
+            foreach (var item in kelimelerim)
             {
-                Console.Write(item+ " ");
+                Console.Write(item+", ");
             }
+            //Console.WriteLine(kelimelerim);
+            
+
         }
 
         //static void merhabaDunya()
@@ -209,7 +228,7 @@ namespace Ders6_Metotlar_1
         //metodu oluşturduk.
         //static int BuyukDondur(int s1, int s2)
         //{
-            
+
         //    if (s1 > s2)
         //    {
         //        return s1;
@@ -228,7 +247,7 @@ namespace Ders6_Metotlar_1
         //Soru Parametre olarak aldığı 3 adet sayıdan en büyük olanı döndüren metodu yazınız
 
         // List tipinde aldığı 10 adet sayının karelerini list tipinde döndüren metodu yazınız(2 tane list olacak)
-        
+
         //static List<int> listeKare(List<int> sayilar)
         //{
         //    List<int> kareler = new List<int>();
@@ -242,17 +261,49 @@ namespace Ders6_Metotlar_1
 
         // Liste sorusu: Kullanıcıdan 10 sayı alıp liste ile döndüren metodu yazınız.
 
-       static List<int> KullaniciSayi() // ilk etap döndürcemiz parantez içi alacağımız ne döndürüyosak o tipte değişkene ihtiyacım var
+        //static List<int> KullaniciSayi() // ilk etap döndürcemiz parantez içi alacağımız ne döndürüyosak o tipte değişkene ihtiyacım var
+        // {
+        //     List<int> sayilar = new List<int>();
+        //     for (int i = 0; i < 10; i++)
+        //     {
+        //         Console.Write($"{i}. sayı= ");
+        //         int sayi = Convert.ToInt32(Console.ReadLine());
+        //         sayilar.Add(sayi);
+        //     }
+        //     return sayilar;
+        // }       
+
+        // (enküçük,enbüyük,sayıadedi)=> en küçük ile en büyük sayı arasında ki fark adedince rastgele sayı üretsin bir listeye atıp döndürsün
+
+        //static List<int> tahminOyunu(int enKucuk, int enBuyuk, int sayiAdedi)
+        //{
+        //    Random rnd = new Random();
+        //    List<int> sayilar = new List<int>();
+
+        //    for (int i = 0; i < sayiAdedi; i++)
+        //    {
+        //        int sayi = rnd.Next(enKucuk, enBuyuk);
+        //        sayilar.Add(sayi);
+        //    }
+        //    return sayilar;
+        //}
+
+        // Kendisine liste olarak gönderilen stringleri tek bir string olarak birleştirip döndüren metot yazınız.
+        // List<string>=> Metotda parametre olarak gönder
+        // String olarak al
+
+        static string Kelimeler(List<string> liste)
         {
-            List<int> sayilar = new List<int>();
-            for (int i = 0; i < 10; i++)
+            string tekKelime="";
+            int boyut = liste.Count();
+            foreach (var item in liste)
             {
-                Console.Write($"{i}. sayı= ");
-                int sayi = Convert.ToInt32(Console.ReadLine());
-                sayilar.Add(sayi);
+                tekKelime += item + " ";
             }
-            return sayilar;
-        }       
+            return tekKelime;
+        }
+
+
         
     }
 }
