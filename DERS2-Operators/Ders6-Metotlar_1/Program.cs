@@ -51,31 +51,70 @@ namespace Ders6_Metotlar_1
 
         // Aldığı sayının faktoriyeli döndüren metot hesaplayınız.
 
-        static int Faktoriyel()
-        {
-            int faktoriyel = 1;
-           
-            return faktoriyel;
-        }
+        //static int Faktoriyel()
+        //{
+            
+        //}
 
+        //SORU parametro olarak aldığı sayının asal olup olmadığını döndüren metod. asal ise true değil ise false çözün
+
+
+        // SORU:0-100 arası  Rastgele ürettiği 10 sayıyı int tipinde  dizi olarak döndüren metodu tanımlayınız.
+
+        //static int[] Random10()
+        //{
+        //    int[] sayiDizisi = new int[10]; // boş dizi tanımladık.
+        //    Random r = new Random();
+        //    for (int i = 0; i < 10; i++)
+        //    {
+        //        sayiDizisi[i] = r.Next(0, 100); // üretilen sayıları diziye doldurur
+        //    }
+        //    return sayiDizisi;
+        //}
+
+        //SORU: Kendisine parametre olarak gönderilen dizinin elemanlarını ekrana yazdıran metodu tanımla.
+
+        //static void diziYaz(int[] dizi)
+        //{
+        //    foreach (var eleman in dizi)
+        //    {
+        //        Console.Write(eleman+" ");
+        //    }
+        //    Console.WriteLine();
+        //}
+
+        //SORU: kendisine gönderilen dizideki tek sayıları yine dizi ile döndüren metodu yazınız.
 
 
 
         static void Main(string[] args)
         {
+            //SORU: kendisine gönderilen dizideki tek sayıları yine dizi ile döndüren metodu yazınız.
+
+
+
+            //SORU: Kendisine parametre olarak gönderilen dizinin elemanlarını ekrana yazdıran metodu tanımla.
+            //int[] sayilar = { 10, 3, 5, 2, 55 };
+            //diziYaz(sayilar);
+
+            //int[] rastgele10 = Random10();
+            //foreach (var item in rastgele10)
+            //{
+            //    Console.WriteLine(item);
+            //}
             // Aldığı sayının faktoriyeli döndüren metot hesaplayınız.
 
-            int toplam = Faktoriyel();
-            Console.Write("Faktoriyel Hesabı İstediğiniz Sayıyı Giriniz: ");
-            int sayi2 = Convert.ToInt32(Console.ReadLine());
-            int sonuc = 1;
+            //int toplam = Faktoriyel();
+            //Console.Write("Faktoriyel Hesabı İstediğiniz Sayıyı Giriniz: ");
+            //int sayi2 = Convert.ToInt32(Console.ReadLine());
+            //int sonuc = 1;
 
-            for (int i = 1; i <= sayi2; i++)
-            {
-                sonuc *= i;
-                Console.Write("Yeni Sayı Giriniz: ");
-            }
-            Console.WriteLine(sonuc);
+            //for (int i = 1; i <= sayi2; i++)
+            //{
+            //    sonuc *= i;
+            //    Console.Write("Yeni Sayı Giriniz: ");
+            //}
+            //Console.WriteLine(sonuc);
 
             // Sayı girişini otomatikleştiren metodu yazınız.
 
@@ -127,6 +166,24 @@ namespace Ders6_Metotlar_1
 
             //int toplam = Topla(10, 20);
             //Console.WriteLine(toplam);
+
+            //Soru Parametre olarak aldığı 2 adet sayıdan büyük olan sayıyı döndüreni metot olarak yazın
+
+
+
+
+            //int büyük = BuyukDondur(10,15);
+            //Console.WriteLine(büyük);
+
+            //List<int> sayilarım = new List<int>() { 2, 3, 4, 5 };
+            //List<int> karelerim = listeKare(sayilarım);
+
+            //int boyut = sayilarım.Count();
+
+            foreach (var item in KullaniciSayi())
+            {
+                Console.Write(item+ " ");
+            }
         }
 
         //static void merhabaDunya()
@@ -136,8 +193,6 @@ namespace Ders6_Metotlar_1
 
 
         //    // static olmadığı için main de çağıramıyoruz 2 yolu var ya voidin başına static ekle ya da main de Program classından nesne üret.
-        //}
-
 
         // Kendisine gönderilen 2 sayıyı toplayıp döndüren metot.
 
@@ -148,5 +203,56 @@ namespace Ders6_Metotlar_1
         //      int toplam = s1+s2;
         //    //return toplam; // int olarak tanımladığımız için geriye değer döndürmeyiliz return da bunu sağlar.
         //}
+
+        //Soru Parametre olarak aldığı 2 adet sayıdan büyük olan sayıyı döndüreni metot olarak yazın
+
+        //metodu oluşturduk.
+        //static int BuyukDondur(int s1, int s2)
+        //{
+            
+        //    if (s1 > s2)
+        //    {
+        //        return s1;
+        //    }
+        //    else if (s1 < s2)
+        //    {
+        //        return s2;
+        //    }
+        //    else
+        //    {
+        //        return s1;
+        //    }   
+
+        //}
+
+        //Soru Parametre olarak aldığı 3 adet sayıdan en büyük olanı döndüren metodu yazınız
+
+        // List tipinde aldığı 10 adet sayının karelerini list tipinde döndüren metodu yazınız(2 tane list olacak)
+        
+        //static List<int> listeKare(List<int> sayilar)
+        //{
+        //    List<int> kareler = new List<int>();
+        //    int boyut = sayilar.Count();
+        //    for (int i = 0; i < boyut; i++)
+        //    {
+        //        kareler.Add( sayilar[i] * sayilar[i]);
+        //    }
+        //    return kareler;
+        //}
+
+        // Liste sorusu: Kullanıcıdan 10 sayı alıp liste ile döndüren metodu yazınız.
+
+       static List<int> KullaniciSayi() // ilk etap döndürcemiz parantez içi alacağımız ne döndürüyosak o tipte değişkene ihtiyacım var
+        {
+            List<int> sayilar = new List<int>();
+            for (int i = 0; i < 10; i++)
+            {
+                Console.Write($"{i}. sayı= ");
+                int sayi = Convert.ToInt32(Console.ReadLine());
+                sayilar.Add(sayi);
+            }
+            return sayilar;
+        }       
+        
     }
 }
