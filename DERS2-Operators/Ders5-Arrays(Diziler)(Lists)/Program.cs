@@ -203,96 +203,96 @@ namespace Ders5_Arrays_Diziler__Lists_
             //}
 
 
-            // ********** Bu soruya Bak !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            **********Bu soruya Bak !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-            //örn= 2x4'luk bir dizi tanımlayın, her satırın son değeri hariç klavyeden al son değer öncekilerin toplamı olsun
+          örn = 2x4'luk bir dizi tanımlayın, her satırın son değeri hariç klavyeden al son değer öncekilerin toplamı olsun
 
-            //int[,] dizi = new int[2, 4];
+            int[,] dizi = new int[2, 4];
 
-            //int sonKolon = 0;
-            //for (int satir = 0; satir < 2; satir++)
-            //{
+            int sonKolon = 0;
+            for (int satir = 0; satir < 2; satir++)
+            {
 
-            //    for (int stün = 0; stün < 3; stün++)
-            //    {
-            //        if (stün != 4)
-            //        {
-            //            int sayi = Convert.ToInt32(Console.ReadLine());
-            //            dizi[satir, stün] = sayi;
-            //            sonKolon += sayi;
-            //        }
-            //    }
-            //}
-            //for (int i = 0; i < 2; i++)
-            //{
-            //    for (int j = 0; j < 3; j++)
-            //    {
-            //        sonKolon += dizi[i, j];
-            //    }
-            //    dizi[i, 3] = sonKolon;
-            //    sonKolon = 0;
-            //}
-            //for (int satir = 0; satir < 2; satir++)
-            //{
-            //    for (int stün = 0; stün < 4; stün++)
-            //    {
-            //        Console.Write(dizi[satir, stün] + " ");
-            //    }
-            //    Console.WriteLine();
-            //}
+                for (int stün = 0; stün < 3; stün++)
+                {
+                    if (stün != 4)
+                    {
+                        int sayi = Convert.ToInt32(Console.ReadLine());
+                        dizi[satir, stün] = sayi;
+                        sonKolon += sayi;
+                    }
+                }
+            }
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    sonKolon += dizi[i, j];
+                }
+                dizi[i, 3] = sonKolon;
+                sonKolon = 0;
+            }
+            for (int satir = 0; satir < 2; satir++)
+            {
+                for (int stün = 0; stün < 4; stün++)
+                {
+                    Console.Write(dizi[satir, stün] + " ");
+                }
+                Console.WriteLine();
+            }
 
 
 
-            //int[,] matris = new int[5, 5];
-            //for (int i = 0; i < 5; i++)
-            //{
-            //    for (int j = 0; j < 5; j++)
-            //    {
-            //        if ((i == j || i + j == 4))
-            //        {
-            //            matris[i, j] = 1;
-            //        }
-            //    }
-            //}
-            //for (int i = 0; i < 5; i++)
-            //{
-            //    for (int j = 0; j < 5; j++)
-            //    {
-            //        Console.Write(matris[i, j]+" ");                       
-            //    }
-            //    Console.WriteLine();
-            //}
+            int[,] matris = new int[5, 5];
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    if ((i == j || i + j == 4))
+                    {
+                        matris[i, j] = 1;
+                    }
+                }
+            }
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    Console.Write(matris[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
 
 
             // 3 BOYUTLU DİZİ
 
-            Random rnd = new Random();
-            int[,,] dizi3B = new int[2, 3, 3];
+            //Random rnd = new Random();
+            //int[,,] dizi3B = new int[2, 3, 3];
 
-            for (int z = 0; z < 2; z++) // 3x3lük diziler
-            {
-                for (int i = 0; i < 3; i++) // satırlar 
-                {
-                    for (int j = 0; j < 3; j++) // Stünlar
-                    {
-                        dizi3B[z, i, j] = rnd.Next(1000);
-                    }
-                }
-            }
+            //for (int z = 0; z < 2; z++) // 3x3lük diziler
+            //{
+            //    for (int i = 0; i < 3; i++) // satırlar 
+            //    {
+            //        for (int j = 0; j < 3; j++) // Stünlar
+            //        {
+            //            dizi3B[z, i, j] = rnd.Next(1000);
+            //        }
+            //    }
+            //}
 
-            for (int z = 0; z < 2; z++) // 3x3lük diziler
-            {
-                for (int i = 0; i < 3; i++) // satırlar 
-                {
-                    for (int j = 0; j < 3; j++) // Stünlar
-                    {
-                        Console.Write(dizi3B[z, i, j] + " ");
-                    }
-                    Console.WriteLine();
-                }
-                Console.WriteLine("****************");
-                Console.WriteLine("****************");
-            }
+            //for (int z = 0; z < 2; z++) // 3x3lük diziler
+            //{
+            //    for (int i = 0; i < 3; i++) // satırlar 
+            //    {
+            //        for (int j = 0; j < 3; j++) // Stünlar
+            //        {
+            //            Console.Write(dizi3B[z, i, j] + " ");
+            //        }
+            //        Console.WriteLine();
+            //    }
+            //    Console.WriteLine("****************");
+            //    Console.WriteLine("****************");
+            //}
         }
     }
 }

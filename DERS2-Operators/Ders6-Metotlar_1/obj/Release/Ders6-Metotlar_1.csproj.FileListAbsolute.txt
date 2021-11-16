@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders6-Metotlar_1\bin\Release\Ders6-Metotlar_1.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders6-Metotlar_1\bin\Release\Ders6-Metotlar_1.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders6-Metotlar_1\bin\Release\Ders6-Metotlar_1.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders6-Metotlar_1\obj\Release\Ders6-Metotlar_1.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders6-Metotlar_1\obj\Release\Ders6-Metotlar_1.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders6-Metotlar_1\obj\Release\Ders6-Metotlar_1.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders6-Metotlar_1\obj\Release\Ders6-Metotlar_1.csproj.AssemblyReference.cache

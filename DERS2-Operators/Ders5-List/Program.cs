@@ -49,7 +49,7 @@ namespace Ders5_List
 
             //örn 1-10 arasında rastgele 5'er sayı üretip o listeleri ve aralarında ki farkları başka bir listeye atarak yazdıran program.
 
-            // HOcanın çözümü
+            // Hocanın çözümü
             //List<int> liste1 = new List<int>();
             //List<int> liste2 = new List<int>();
             //List<int> listeFark = new List<int>();
@@ -128,35 +128,13 @@ namespace Ders5_List
 
             // soru= 1-100 arasında 15 sayı üretip bir listeye atın, kullanıcıdan tahmin alıp listede olup olmadığına bakın, listede var iste index numarasını ekrana yazdırın
 
-            List<int> liste1 = new List<int>();
-            Random rnd = new Random();
-            int indisNo;
-
-            for (int i = 0; i < 15; i++)
-            {
-               int sayi = rnd.Next(1, 100);
-                liste1.Add(sayi);
-            }
-            Console.WriteLine("Bir 1 ile 100 arasında bir sayı giriniz: ");
-            int tahmin = Convert.ToInt32(Console.ReadLine());
-
-            foreach (var item in liste1)
-            {
-                if (liste1.Contains(item) == true)
-                {
-                  indisNo = liste1.IndexOf(item);
-                    Console.WriteLine(indisNo);
-                }
-                
-            }
-            
 
 
 
-
-
-
-            //soru2= 0-127 arasında 1 sayı üretip bir listeye atın kullanıcıdan bir karakter alın
+            // 0-255 arasında 1 sayı üretin .
+            // Kullanıcıdan 15 karakter alıp bir listeye atın.
+            // Programın sonunda kullanıcı karakteri bulursa. Tebrik etsin. Ve karakteri ekranda göstersin.
+            // Bulamazsa girdiği karakterler arasından üretline karaktere en yakın olanı ve farkını yazsın.
 
 
         }
