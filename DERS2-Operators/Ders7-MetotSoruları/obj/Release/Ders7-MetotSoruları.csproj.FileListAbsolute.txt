@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders7-MetotSoruları\bin\Release\Ders7-MetotSoruları.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders7-MetotSoruları\bin\Release\Ders7-MetotSoruları.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders7-MetotSoruları\bin\Release\Ders7-MetotSoruları.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders7-MetotSoruları\obj\Release\Ders7-MetotSoruları.csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders7-MetotSoruları\obj\Release\Ders7-MetotSoruları.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders7-MetotSoruları\obj\Release\Ders7-MetotSoruları.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders7-MetotSoruları\obj\Release\Ders7-MetotSoruları.pdb

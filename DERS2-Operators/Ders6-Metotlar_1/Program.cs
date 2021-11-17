@@ -193,15 +193,15 @@ namespace Ders6_Metotlar_1
             //    Console.WriteLine(item);
             //}
 
-            List<string> kelimelerim = new List<string>() { "araba", "hızla", "yanımdan", "geçti" };
-            Kelimeler(kelimelerim);
+            //List<string> kelimelerim = new List<string>() { "araba", "hızla", "yanımdan", "geçti" };
+            //Kelimeler(kelimelerim);
 
-            foreach (var item in kelimelerim)
-            {
-                Console.Write(item+", ");
-            }
+            //foreach (var item in kelimelerim)
+            //{
+            //    Console.Write(item + ", ");
+            //}
             //Console.WriteLine(kelimelerim);
-            
+
 
         }
 
@@ -291,17 +291,15 @@ namespace Ders6_Metotlar_1
         // Kendisine liste olarak gönderilen stringleri tek bir string olarak birleştirip döndüren metot yazınız.
         // List<string>=> Metotda parametre olarak gönder
         // String olarak al
-
-        static string Kelimeler(List<string> liste)
-        {
-            string tekKelime="";
-            int boyut = liste.Count();
-            foreach (var item in liste)
-            {
-                tekKelime += item + " ";
-            }
-            return tekKelime;
-        }
+        //static string Kelimeler(List<string> liste)
+        //{
+        //    string tekKelime="";
+        //    foreach (var item in liste)
+        //    {
+        //        tekKelime += item + " ";
+        //    }
+        //    return tekKelime;
+        //}
 
 
         
