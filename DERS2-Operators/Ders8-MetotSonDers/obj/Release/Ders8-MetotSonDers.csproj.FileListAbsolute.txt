@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-MetotSonDers\bin\Release\Ders8-MetotSonDers.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-MetotSonDers\bin\Release\Ders8-MetotSonDers.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-MetotSonDers\bin\Release\Ders8-MetotSonDers.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-MetotSonDers\obj\Release\Ders8-MetotSonDers.csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-MetotSonDers\obj\Release\Ders8-MetotSonDers.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-MetotSonDers\obj\Release\Ders8-MetotSonDers.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-MetotSonDers\obj\Release\Ders8-MetotSonDers.pdb

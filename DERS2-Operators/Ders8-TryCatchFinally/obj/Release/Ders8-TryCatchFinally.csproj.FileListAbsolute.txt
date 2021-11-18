@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-TryCatchFinally\bin\Release\Ders8-TryCatchFinally.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-TryCatchFinally\bin\Release\Ders8-TryCatchFinally.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-TryCatchFinally\bin\Release\Ders8-TryCatchFinally.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-TryCatchFinally\obj\Release\Ders8-TryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-TryCatchFinally\obj\Release\Ders8-TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-TryCatchFinally\obj\Release\Ders8-TryCatchFinally.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-TryCatchFinally\obj\Release\Ders8-TryCatchFinally.pdb

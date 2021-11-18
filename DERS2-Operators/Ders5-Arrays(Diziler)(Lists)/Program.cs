@@ -102,6 +102,7 @@ namespace Ders5_Arrays_Diziler__Lists_
             //    Console.WriteLine($"10 değeri {startIndex}. indexte var.");
             //    startIndex += 1;
             //}
+            //float fsayi = 3.14F;
 
 
             /// DİZİDEN DİZİYE KOPYALAMA
