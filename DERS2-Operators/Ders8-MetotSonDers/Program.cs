@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -63,7 +63,7 @@ namespace Ders8_MetotSonDers
 
             // Soru1= string tipinde ki metnin harflerini char tipindeki diziye aktaran metodu yazınız.
 
-            string metin = "EN BÜYÜK BURSASPOR ";
+            //string metin = "EN BÜYÜK BURSASPOR ";
 
             //char[] kelimeler = Convert.ToChar(metin.Split(' '));
 
@@ -157,18 +157,18 @@ namespace Ders8_MetotSonDers
 
 
         // ref kullanılırken parametrenin ilk değer ataması zorunludur.
-        static int DegerDegistir(ref int sayi)
-        {
-            sayi = sayi * 10;
-            return sayi;
-        }
+        //static int DegerDegistir(ref int sayi)
+        //{
+        //    sayi = sayi * 10;
+        //    return sayi;
+        //}
 
-        // out kullanılırken parametrenin ilk değer ataması zorunlu değildir.
-        static int DegerDegistirOut(out int sayi)
-        {
-            sayi = 20;
-            return sayi + 100;
-        }
+        //// out kullanılırken parametrenin ilk değer ataması zorunlu değildir.
+        //static int DegerDegistirOut(out int sayi)
+        //{
+        //    sayi = 20;
+        //    return sayi + 100;
+        //}
 
 
 

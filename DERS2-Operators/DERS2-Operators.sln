@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders8-DateTimeKutuphanesi",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders8-TryCatchFinally", "Ders8-TryCatchFinally\Ders8-TryCatchFinally.csproj", "{B8AAB9C2-5CE6-4DA6-BBCA-BC35B400B0A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders9-OOP_1", "Ders9-OOP_1\Ders9-OOP_1.csproj", "{1F12866A-C6CD-4852-86D7-109967A615BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B8AAB9C2-5CE6-4DA6-BBCA-BC35B400B0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8AAB9C2-5CE6-4DA6-BBCA-BC35B400B0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8AAB9C2-5CE6-4DA6-BBCA-BC35B400B0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F12866A-C6CD-4852-86D7-109967A615BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F12866A-C6CD-4852-86D7-109967A615BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F12866A-C6CD-4852-86D7-109967A615BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F12866A-C6CD-4852-86D7-109967A615BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
