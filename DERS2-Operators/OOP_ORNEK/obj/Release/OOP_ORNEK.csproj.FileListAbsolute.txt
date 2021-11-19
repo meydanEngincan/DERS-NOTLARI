@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\OOP_ORNEK\bin\Release\OOP_ORNEK.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\OOP_ORNEK\bin\Release\OOP_ORNEK.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\OOP_ORNEK\bin\Release\OOP_ORNEK.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\OOP_ORNEK\obj\Release\OOP_ORNEK.csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\OOP_ORNEK\obj\Release\OOP_ORNEK.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\OOP_ORNEK\obj\Release\OOP_ORNEK.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\OOP_ORNEK\obj\Release\OOP_ORNEK.pdb

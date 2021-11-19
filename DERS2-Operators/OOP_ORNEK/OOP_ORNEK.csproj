@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1F12866A-C6CD-4852-86D7-109967A615BE}</ProjectGuid>
+    <ProjectGuid>{14314775-304C-4C27-9F24-561975AA2215}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ders9_OOP_1</RootNamespace>
-    <AssemblyName>Ders9-OOP_1</AssemblyName>
+    <RootNamespace>OOP_ORNEK</RootNamespace>
+    <AssemblyName>OOP_ORNEK</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Derslik.cs" />
     <Compile Include="Ogrenci.cs" />
     <Compile Include="Ogretmen.cs" />
     <Compile Include="Program.cs" />
