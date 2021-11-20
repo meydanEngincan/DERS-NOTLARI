@@ -22,8 +22,10 @@ namespace OOP_ORNEK
             ogr.SinifOgretmeniDegis(ogrt);
             ogr.OgrGetir();
 
-
-
+            ogrt.ogretmenAd = "Damlagül";
+            ogrt.ogretmenSoyad = "Çaçak";
+            ogrt.ogrenciler.Add(ogr);
+            ogrt.OgrenciListe();
             
         }
     }

@@ -8,11 +8,11 @@ namespace OOP_ORNEK
 {
     public class Ogretmen
     {
+        
         public int ogretmenID;
         public string ogretmenAd;
-        public string ogretmenSoyad;
-        List<Ogrenci> ogrenciler = new List<Ogrenci>();
-       // public List<Ogrenci> ogren;
+        public string ogretmenSoyad;        
+        public List<Ogrenci> ogrenciler;
         public Ogretmen()
         {
             this.ogrenciler = new List<Ogrenci>(); // Liste oluşturulur.
@@ -28,7 +28,7 @@ namespace OOP_ORNEK
             Console.WriteLine($"{this.ogretmenAd} {this.ogretmenSoyad} öğretmenimizin öğrencileri");
             foreach (var item in this.ogrenciler)
             {
-                Console.WriteLine(item.ogrAd + " "+ item.ogrSoyad); 
+                Console.WriteLine(item.ogrAd + " " + item.ogrSoyad);
             }
             Console.WriteLine("***************************************");
         }

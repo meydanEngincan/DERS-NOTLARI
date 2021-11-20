@@ -8,10 +8,10 @@ namespace OOP_ORNEK
 {
     public class Derslik
     {
-        int derslikNo;
-        int ogrenciKapasite;
-        string derslikAd;
-        int derslikKat;
+        public int derslikNo;
+        public int ogrenciKapasite;
+        public string derslikAd;
+        public int derslikKat;
         public Ogretmen ogretmen;
 
         private bool OgretmenAtamaKontrol(Ogretmen ogretmen)  // parametre olarak öğrenci sınıfından nesne ile çalışır// öğretmen ataması kontrol sınıf-kapasite uygun mu
@@ -25,9 +25,9 @@ namespace OOP_ORNEK
                 return false;
 
         }
-        
 
-        private bool OgretmenAtama(Ogretmen ogretmen)
+
+        public bool OgretmenAtama(Ogretmen ogretmen)
         {
             bool kontrol = this.OgretmenAtamaKontrol(ogretmen);
 
@@ -44,15 +44,15 @@ namespace OOP_ORNEK
             }
         }
 
-        private void BilgiGetir()
+        public void BilgiGetir()
         {
             Console.WriteLine(this.derslikAd);
             Console.WriteLine(this.derslikNo);
             Console.WriteLine(this.derslikKat);
             Console.WriteLine(this.ogrenciKapasite);
-            Console.WriteLine(this.ogretmen.ogretmenAd + " "+ this.ogretmen.ogretmenSoyad);
+            Console.WriteLine(this.ogretmen.ogretmenAd + " " + this.ogretmen.ogretmenSoyad);
             Console.WriteLine();
         }
-        
+
     }
 }
