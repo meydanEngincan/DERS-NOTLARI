@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP-Bisiklet_Örneği\bin\Release\Ders10-OOP-Bisiklet_Örneği.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP-Bisiklet_Örneği\bin\Release\Ders10-OOP-Bisiklet_Örneği.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP-Bisiklet_Örneği\bin\Release\Ders10-OOP-Bisiklet_Örneği.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP-Bisiklet_Örneği\obj\Release\Ders10-OOP-Bisiklet_Örneği.csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP-Bisiklet_Örneği\obj\Release\Ders10-OOP-Bisiklet_Örneği.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP-Bisiklet_Örneği\obj\Release\Ders10-OOP-Bisiklet_Örneği.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP-Bisiklet_Örneği\obj\Release\Ders10-OOP-Bisiklet_Örneği.pdb

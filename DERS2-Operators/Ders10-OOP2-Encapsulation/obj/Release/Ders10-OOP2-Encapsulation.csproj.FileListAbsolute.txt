@@ -1,0 +1,6 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP2-Encapsulation\bin\Release\Ders10-OOP2-Encapsulation.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP2-Encapsulation\bin\Release\Ders10-OOP2-Encapsulation.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP2-Encapsulation\bin\Release\Ders10-OOP2-Encapsulation.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP2-Encapsulation\obj\Release\Ders10-OOP2-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP2-Encapsulation\obj\Release\Ders10-OOP2-Encapsulation.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders10-OOP2-Encapsulation\obj\Release\Ders10-OOP2-Encapsulation.pdb

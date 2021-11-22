@@ -8,8 +8,6 @@ namespace OOP_ODEV_1
 {
     class Kullanici
     {
-       
-
         public int ID { get; set; }
         public string AdSoyad { get; set; }
         public string Adress { get; set; }
@@ -30,6 +28,7 @@ namespace OOP_ODEV_1
                 this.AdSoyad = adsoyad;
                 this.Adress = adress;
                 this.Telefon = telefon;
+                
             }
             else
             {
