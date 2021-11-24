@@ -49,18 +49,11 @@ namespace Ders11_OOP_KalıtımOrnek
 
         public void BilgiYaz()
         {
-            Console.WriteLine($"İlan No: {this._IlanID} İlan Başlık: {this._IlanBaslik} İlan Kategori: {this._Kategori} Fiyat:{this._Fiyat} Satıcı: {this._Satici}");
+            Console.WriteLine($"İlan No: {this._IlanID} İlan Başlık: {this._IlanBaslik} İlan Kategori: {this._Kategori} Fiyat:{this._Fiyat} Satıcı: {this._Satici.KullaniciAdSoyad}");
         }
-
         public void IndırımYap(byte indirimOrani)
         {
             this._Fiyat = this._Fiyat - (this._Fiyat * (indirimOrani / 100));
         }
-
-
-
-
-
-
     }
 }

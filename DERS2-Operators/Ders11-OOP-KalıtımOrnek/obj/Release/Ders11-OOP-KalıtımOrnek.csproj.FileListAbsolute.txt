@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11-OOP-KalıtımOrnek\bin\Release\Ders11-OOP-KalıtımOrnek.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11-OOP-KalıtımOrnek\bin\Release\Ders11-OOP-KalıtımOrnek.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11-OOP-KalıtımOrnek\bin\Release\Ders11-OOP-KalıtımOrnek.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11-OOP-KalıtımOrnek\obj\Release\Ders11-OOP-KalıtımOrnek.csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11-OOP-KalıtımOrnek\obj\Release\Ders11-OOP-KalıtımOrnek.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11-OOP-KalıtımOrnek\obj\Release\Ders11-OOP-KalıtımOrnek.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11-OOP-KalıtımOrnek\obj\Release\Ders11-OOP-KalıtımOrnek.pdb

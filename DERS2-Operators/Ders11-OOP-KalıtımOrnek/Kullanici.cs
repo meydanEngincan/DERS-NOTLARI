@@ -19,7 +19,7 @@ namespace Ders11_OOP_KalıtımOrnek
             get { return this._KullaniciAdSoyad; }
             set { this._KullaniciAdSoyad = value; }
         }
-        string _KullaniciTelefon
+       public string _KullaniciTelefon
         {
             get { return this._KullaniciTelefon; }
             set { this._KullaniciTelefon = value; }

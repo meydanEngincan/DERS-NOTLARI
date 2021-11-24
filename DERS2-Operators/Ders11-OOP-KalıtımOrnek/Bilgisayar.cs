@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ders11_OOP_KalıtımOrnek
 {
-    public enum KasaTipi { Yatay, Dikey }
+    
     class Bilgisayar:Ilan
     {
         string _Marka;

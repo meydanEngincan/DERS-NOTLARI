@@ -7,7 +7,7 @@
     <ProjectGuid>{1E715389-6DCD-4F36-AE14-DEB76D5B2ECC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ders11_OOP_KalıtımOrnek</RootNamespace>
-    <AssemblyName>Ders11_OOP_KalıtımOrnek</AssemblyName>
+    <AssemblyName>Ders11-OOP-KalıtımOrnek</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bilgisayar.cs" />
+    <Compile Include="Dizustu.cs" />
+    <Compile Include="Ilan.cs" />
+    <Compile Include="Kullanici.cs" />
+    <Compile Include="Masaustu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
