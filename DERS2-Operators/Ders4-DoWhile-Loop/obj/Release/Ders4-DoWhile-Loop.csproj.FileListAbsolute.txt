@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-DoWhile-Loop\bin\Release\Ders4-DoWhile-Loop.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-DoWhile-Loop\bin\Release\Ders4-DoWhile-Loop.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-DoWhile-Loop\bin\Release\Ders4-DoWhile-Loop.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-DoWhile-Loop\obj\Release\Ders4-DoWhile-Loop.csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-DoWhile-Loop\obj\Release\Ders4-DoWhile-Loop.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-DoWhile-Loop\obj\Release\Ders4-DoWhile-Loop.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-DoWhile-Loop\obj\Release\Ders4-DoWhile-Loop.pdb

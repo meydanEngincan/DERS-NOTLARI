@@ -1,0 +1,6 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-Operators\bin\Release\DERS2-Operators.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-Operators\bin\Release\DERS2-Operators.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-Operators\bin\Release\DERS2-Operators.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-Operators\obj\Release\DERS2-Operators.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-Operators\obj\Release\DERS2-Operators.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\DERS2-Operators\obj\Release\DERS2-Operators.pdb

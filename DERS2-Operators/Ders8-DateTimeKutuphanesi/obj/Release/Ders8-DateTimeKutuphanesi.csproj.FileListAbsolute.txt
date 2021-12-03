@@ -1,0 +1,6 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-DateTimeKutuphanesi\bin\Release\Ders8-DateTimeKutuphanesi.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-DateTimeKutuphanesi\bin\Release\Ders8-DateTimeKutuphanesi.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-DateTimeKutuphanesi\bin\Release\Ders8-DateTimeKutuphanesi.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-DateTimeKutuphanesi\obj\Release\Ders8-DateTimeKutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-DateTimeKutuphanesi\obj\Release\Ders8-DateTimeKutuphanesi.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders8-DateTimeKutuphanesi\obj\Release\Ders8-DateTimeKutuphanesi.pdb

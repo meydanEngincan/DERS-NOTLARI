@@ -1,0 +1,7 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11_OOP_KALITIM\bin\Release\Ders11_OOP_KALITIM.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11_OOP_KALITIM\bin\Release\Ders11_OOP_KALITIM.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11_OOP_KALITIM\bin\Release\Ders11_OOP_KALITIM.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11_OOP_KALITIM\obj\Release\Ders11_OOP_KALITIM.csproj.AssemblyReference.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11_OOP_KALITIM\obj\Release\Ders11_OOP_KALITIM.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11_OOP_KALITIM\obj\Release\Ders11_OOP_KALITIM.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders11_OOP_KALITIM\obj\Release\Ders11_OOP_KALITIM.pdb

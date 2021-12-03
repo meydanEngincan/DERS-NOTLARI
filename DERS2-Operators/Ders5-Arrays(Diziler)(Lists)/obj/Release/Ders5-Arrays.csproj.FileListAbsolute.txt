@@ -1,0 +1,3 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\obj\Release\Ders5-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\obj\Release\Ders5-Arrays(Diziler)(Lists).exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders5-Arrays(Diziler)(Lists)\obj\Release\Ders5-Arrays(Diziler)(Lists).pdb

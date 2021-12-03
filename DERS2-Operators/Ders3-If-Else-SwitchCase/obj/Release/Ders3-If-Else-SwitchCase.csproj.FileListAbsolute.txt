@@ -1,0 +1,6 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders3-If-Else-SwitchCase\bin\Release\Ders3-If-Else-SwitchCase.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders3-If-Else-SwitchCase\bin\Release\Ders3-If-Else-SwitchCase.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders3-If-Else-SwitchCase\bin\Release\Ders3-If-Else-SwitchCase.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders3-If-Else-SwitchCase\obj\Release\Ders3-If-Else-SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders3-If-Else-SwitchCase\obj\Release\Ders3-If-Else-SwitchCase.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders3-If-Else-SwitchCase\obj\Release\Ders3-If-Else-SwitchCase.pdb

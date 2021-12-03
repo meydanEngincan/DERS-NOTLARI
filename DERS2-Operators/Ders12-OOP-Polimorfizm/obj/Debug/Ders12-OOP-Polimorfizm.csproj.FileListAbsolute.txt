@@ -1,0 +1,6 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders12-OOP-Polimorfizm\bin\Debug\Ders12-OOP-Polimorfizm.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders12-OOP-Polimorfizm\bin\Debug\Ders12-OOP-Polimorfizm.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders12-OOP-Polimorfizm\bin\Debug\Ders12-OOP-Polimorfizm.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders12-OOP-Polimorfizm\obj\Debug\Ders12-OOP-Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders12-OOP-Polimorfizm\obj\Debug\Ders12-OOP-Polimorfizm.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders12-OOP-Polimorfizm\obj\Debug\Ders12-OOP-Polimorfizm.pdb

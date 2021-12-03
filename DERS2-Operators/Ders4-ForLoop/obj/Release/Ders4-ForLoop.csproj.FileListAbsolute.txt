@@ -1,0 +1,6 @@
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-ForLoop\bin\Release\Ders4-ForLoop.exe.config
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-ForLoop\bin\Release\Ders4-ForLoop.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-ForLoop\bin\Release\Ders4-ForLoop.pdb
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-ForLoop\obj\Release\Ders4-ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-ForLoop\obj\Release\Ders4-ForLoop.exe
+C:\Users\MOR\Desktop\NETWORK AKADEMİ\DERS-NOTLARI\DERS2-Operators\Ders4-ForLoop\obj\Release\Ders4-ForLoop.pdb
